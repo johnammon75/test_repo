@@ -6,3 +6,6 @@ rConfig.get()
 frappe.use()
 
 s = PyC.Py_SetPath()
+import langchain_experimental 
+
+langchain_experimental.use(xx, y)
